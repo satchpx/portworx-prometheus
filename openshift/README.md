@@ -2,7 +2,7 @@
 
 ## Before you begin
 ```
-git clone git@github.com:satchpx/portworx-prometheus.git
+git clone https://github.com/satchpx/portworx-prometheus.git
 cd openshift
 ```
 
